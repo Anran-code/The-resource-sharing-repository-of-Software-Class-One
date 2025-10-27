@@ -1,2 +1,7 @@
 # The-resource-sharing-repository-of-Software-Class-One
-The resource sharing repository of Software Class One
+软件一班资源共享仓库：
+规则：
+1.严禁在main分支直接上传文件，所有的资源文件见master分支，后续上传需特别注意！！！
+2.请按分类正确上传到对应的文件夹里
+3.以文件夹的方式上传（用来放所有你要上传的文件），文件夹命名格式为 资源名+姓名+学号 ，文件名不限但应该为有意义的描述
+4.严禁删除和修改不属于你的文件！！！
